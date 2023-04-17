@@ -9,10 +9,22 @@ Nesta seção você vai encontrar os arquivos necessários pra juntar-se a nós 
 
 ## Instalador Windows
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+- Baixar [TLauncher-Windows](https://github.com/fsmpinheiro/minecraft-pacce-server/blob/4b28375ea271a77b07b9dc00e0a3cce1d8ef3e00/Windows/TLauncher-2.879-Installer-1.1.0.zip);
+
+- Atenção durante o processo de instalação, TLauncher vai oferecer instalar coisas paralelas que não nos interessam;
+
+- Executar instalação limpa, marcando a checkbox;
+
+- Ao final da instalação, marcar a instalação do Java (pra rodar o jogo)
+
+- TLauncher vai ser baixado, e depois de carregado, aparecerá uma nova janela;
+
+- Na parte inferior, preencha seu nome de usuário, escolha a VERSÃO FORGE 1.16.5 e clique em baixar;
+
+- Depois de encerrado o download, execute o jogo pelo menos uma vez, pra ter certeza que tá rodando e Ok;
 
 ## Instalador Linux
-- Baixe o arquivo [TLauncher-2.879-Linux.zip](http://) 
+- Baixe o arquivo [TLauncher-2.879-Linux.zip](https://github.com/fsmpinheiro/minecraft-pacce-server/blob/4b28375ea271a77b07b9dc00e0a3cce1d8ef3e00/Linux/TLauncher-2.879-Linux.zip) 
 
 - Extraia o TLauncher-2.879-Linux.jar do .zip, esse vai ser nosso executável que vai baixar o Minecraft;
 
@@ -36,6 +48,6 @@ Os arquivos do TLauncher vai ser baixados, e depois de carregado, aparecerá uma
 
 - Vai ser exibida uma janela com os arquivos do jogo, feche a janela do TLauncher;
 
-- Coloque todos os mods presentes aqui nessa pasta [Pasta no GDrive](https://drive.google.com/drive/folders/1mINdHlljwTyUkPIcwzLjkS7qWT51t3eZ?usp=sharing) dentro da pasta **mods** onde Minecraft foi instalado no seu computador;
+- Coloque todos os mods presentes aqui nessa [pasta no GDrive](https://drive.google.com/drive/folders/1mINdHlljwTyUkPIcwzLjkS7qWT51t3eZ?usp=sharing) dentro da pasta **mods** onde Minecraft foi instalado no seu computador;
 
 - Pra saber se deu tudo certo, execute o TLauncher novamente ( no Linux é pelo **TLauncher-2.879-Linux.jar**, clicando com o botão direito, abrir com outro aplicativo, OpenJDK), mande executar o jogo e vai estar tudo direitinho;
