@@ -11,7 +11,7 @@ Nesta seção você vai encontrar os arquivos necessários pra juntar-se a nós 
 
 - Baixar [TLauncher-Windows](https://github.com/fsmpinheiro/minecraft-pacce-server/blob/4b28375ea271a77b07b9dc00e0a3cce1d8ef3e00/Windows/TLauncher-2.879-Installer-1.1.0.zip);
 
-- Atenção durante o processo de instalação, TLauncher vai oferecer instalar coisas paralelas que não nos interessam;
+- Tenha **ATENÇÃO** durante o processo de instalação, TLauncher **VAI** se oferecer pra instalar coisas paralelas que não nos interessam, recuse;
 
 - Executar instalação limpa, marcando a checkbox;
 
@@ -19,7 +19,7 @@ Nesta seção você vai encontrar os arquivos necessários pra juntar-se a nós 
 
 - TLauncher vai ser baixado, e depois de carregado, aparecerá uma nova janela;
 
-- Na parte inferior, preencha seu nome de usuário, escolha a VERSÃO FORGE 1.16.5 e clique em baixar;
+- Na parte inferior, preencha seu nome de usuário, escolha a versão **FORGE 1.16.5** e clique em baixar;
 
 - Depois de encerrado o download, execute o jogo pelo menos uma vez, pra ter certeza que tá rodando e Ok;
 
@@ -38,7 +38,7 @@ Se vc não tiver o Java 8 instalado no seu Ubuntu, basta rodar esse comando no t
 >>sudo apt install openjdk-8-jre
 
 Os arquivos do TLauncher vai ser baixados, e depois de carregado, aparecerá uma nova janela;
-- Na parte inferior, preencha seu nome de usuário, escolha a VERSÃO **FORGE 1.16.5** e clique em baixar;
+- Na parte inferior, preencha seu nome de usuário, escolha a versão **FORGE 1.16.5** e clique em baixar;
 
 - Depois de encerrado o download, execute o jogo pelo menos uma vez, pra ter certeza que tá rodando direitinho;
 
